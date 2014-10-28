@@ -1,0 +1,42 @@
+Plans for Theta
+-----------------------------------------------------------------------
+***This is a project to accelerate the user in maths. To make him/her
+calculate faster, and accurate. These are the plans for this project.
+Written in Python.***
+
+* Doing it in a GUI format. Using the Kivy framework
+
+* Have categories
+  - Arithmetics
+  - Algebra
+  - Geometry
+  - Trigonometry
+  - Calc (Maybe)
+* Plans for ARITHMETICS
+  - Addition/Subtraction up to 5-digit numbers
+  - Multiplication
+  - Fractions
+  - Decimals
+  - Scientific Notation
+* Plans for ALGEBRA
+  - Basic variable solving
+  - Plots
+  - Functions
+  - Quadratics
+    - Factoring
+    - Graphing
+    - Complete the square
+    - Quadratic Formula
+    - Word Problems (Maybe)
+  - Systems of Equations (2 and 3 variables)
+  - Advanced variable solving
+  - Rational expressions
+  - Polynomials
+  - Exponential functions
+  - Logarithms
+  - Imaginary / Complex numbers
+  - Matrices
+* Geometry
+  - Some plans here...
+* Calculus (Maybe)
+  - Some plans here...
